@@ -1,10 +1,4 @@
 # alexlshon
 The files for my github pages website
 
-This page uses css code from the martin theme by Allison House, the license and the readme for this package is the following
-
-#Martin theme
-
-Showcase your project in style with Martin, a bold, timeless theme for GitHub pages! Named for the punchcutter William Martin, apprentice to John Baskerville. This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/). Check out the [live demo](http://house.github.io/martin/).
-
-![Martin theme preview](https://f.cloud.github.com/assets/306877/1145554/bddcfe0a-1e1d-11e3-998c-171657eb1054.png)
+This page uses css code from the Martin theme by Allison House. The Martin theme is  licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/). The link to the [Martin theme](https://github.com/house/martin).  

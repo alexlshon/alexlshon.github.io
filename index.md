@@ -10,10 +10,10 @@
     <div id="wrapper">
       <header>
         <nav>
-          <div class="byline"><a href="#">Home</a></div>
-          <div class="downloads">
-            <a href="#">Project List</a>
-            &bull; <a href="#">About</a>
+          <div class="byline">
+            <a href="/index.html">Home</a>
+            &bull;
+            <a href="/assets/about.html">About/Contact</a>
           </div>
         </nav>
         <hgroup>
@@ -23,9 +23,14 @@
       </header>
       <section>
         <h1>Projects</h1>
-        <svg>
-
-        </svg>
+        <ul>
+          <li>
+            <a href="/assets/projects/patentclassifier.html">Patent Classifier</a>
+          </li>
+          <li>
+            <a href="/assets/projects/MNDT.html">Mapping Natural Disaster tweets</a>
+          </li>
+        </ul>
       </section>
       <footer>
 
